@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>560265165590-89r1jppbs96ut5q07jmhhf0ckuk7nma5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.560265165590-89r1jppbs96ut5q07jmhhf0ckuk7nma5</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>560265165590-tv2tmh88qd4209u0832kfc0bm1j5nrpa.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAfC-RpleEBHpzJiFwn934IVG9_IIUarIU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>560265165590</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.psfs.sleepGiant</string>
+	<key>PROJECT_ID</key>
+	<string>sleep-giant</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sleep-giant.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:560265165590:ios:577aebc4edf3b2d7</string>
+	<key>DATABASE_URL</key>
+	<string>https://sleep-giant.firebaseio.com</string>
+</dict>
+</plist>
